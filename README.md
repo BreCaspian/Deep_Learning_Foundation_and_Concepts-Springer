@@ -34,7 +34,7 @@ Deep Learning: Foundations and Concepts
 
 - **Figure/** - 书中的所有图表和插图
 
-- **Solutions/** - 书籍练习的相关数学推导解答
+- **Solutions/** - 书籍练习的相关数学推导解答 ⭐已更新完成所有练习题解答⭐
   - 包含概率论、标准分布、单层网络、Transformer、变分自编码器等主题的PDF文件
 
 ## 📚 关于本书
