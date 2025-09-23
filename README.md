@@ -76,7 +76,12 @@ Deep Learning: Foundations and Concepts
 如果您在研究或项目中使用这些材料，请引用原书：
 
 ```
-Bishop, C. M., & Bishop, H. (2023). Deep Learning: Foundations and Concepts. Springer.
+@book{Bishop:DeepLearning24,
+  author    = {Christopher M. Bishop and Hugh Bishop},
+  title     = {Deep Learning: Foundations and Concepts},
+  year      = {2024},
+  publisher = {Springer}
+}
 ```
 
 ## 🔗 额外资源
