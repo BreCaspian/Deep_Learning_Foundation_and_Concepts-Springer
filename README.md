@@ -12,6 +12,12 @@ Deep Learning: Foundations and Concepts
 
 本仓库包含《深度学习：基础与概念》(Deep Learning: Foundations and Concepts) 一书的补充资源、练习材料和解决方案。该书由Christopher M. Bishop和Hugh Bishop编著，由Springer于2023年出版。
 
+<p align="center">
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_332.png" alt="DLFC 内页示意 332" width="30%" />
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_00.png" alt="DLFC 封面 00" width="30%" />
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_612.png" alt="DLFC 内页示意 612" width="30%" />
+</p>
+
 ## 🗂️ 仓库结构
 
 仓库按以下方式组织：
