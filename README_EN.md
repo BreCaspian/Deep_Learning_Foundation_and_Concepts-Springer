@@ -10,6 +10,12 @@ Deep Learning: Foundations and Concepts
 
 This repository contains supplementary resources, exercise materials, and solutions for the book *Deep Learning: Foundations and Concepts*, written by Christopher M. Bishop and Hugh Bishop, published by Springer in 2023.
 
+<p align="center">
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_332.png" alt="DLFC 内页示意 332" width="30%" />
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_00.png" alt="DLFC 封面 00" width="30%" />
+  <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_612.png" alt="DLFC 内页示意 612" width="30%" />
+</p>
+
 ## 🗂️ Repository Structure
 
 The repository is organized as follows:
