@@ -32,7 +32,7 @@ The repository is organized as follows:
 
 - **Figure/** - All figures and illustrations from the book
 
-- **Solutions/** - Solutions to the book’s exercises with mathematical derivations
+- **Solutions/** - Solutions to the book’s exercises with mathematical derivations ⭐ All exercise solutions have been fully updated ⭐
   - Includes PDF files on topics such as probability theory, standard distributions, single-layer networks, Transformers, Variational Autoencoders, etc.
 
 ## 📚 About the Book
