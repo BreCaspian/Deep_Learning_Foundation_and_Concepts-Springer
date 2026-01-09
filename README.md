@@ -91,3 +91,31 @@ Deep Learning: Foundations and Concepts
 ## 📜 许可信息
 
 本仓库仅供教育学习目的使用。请尊重原始材料的版权。所有内容均按照学术和研究目的的合理使用原则共享。 
+
+> [!IMPORTANT]
+> 《Deep Learning: Foundations and Concepts》**后十章全部习题解答**
+> 系本人基于原书内容独立完成的**原创性智力成果**，
+> 依法受《中华人民共和国著作权法》保护，
+> 其**著作权归本人所有**。
+>
+> 该等习题解答之**出版权及相关出版使用权**
+> 已依据合法协议完成授权，
+> **现由 [人民邮电出版社](https://www.ptpress.com.cn/) 依法行使**，
+> 并将以正式出版物形式公开发行。
+>
+> 该书之**原著作权**
+> **归属于作者，并由 Springer Nature 负责出版与授权**。
+> 本人不对原书正文、结构或原始内容主张任何版权。
+> 书籍官方信息参见：
+> [https://www.bishopbook.com/](https://www.bishopbook.com/)
+>
+> 除上述已授权出版的习题解答内容外，
+> 本仓库中其余由本人独立完成的原创性整理材料，
+> 在不与原书版权及出版社已获授权内容发生冲突的前提下，
+> **采用
+> [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+> 许可协议进行授权。
+>
+> 具体版权归属与授权范围，
+> 以如下法律文件为准：
+> [Copyright & License](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer/blob/main/Solutions/License%26Copyright/Copyright.pdf)
