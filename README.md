@@ -25,33 +25,32 @@ ISBN：978-7-115-69867-4
 <p align="center">
   <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_332.png"
        alt="DLFC 内页示意 332"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
   <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_00.png"
        alt="DLFC 封面 00"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
   <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_612.png"
        alt="DLFC 内页示意 612"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67f7a031-f360-424c-9ee1-ad05024d96b2"
        alt="深度学习习题详解 前言"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
   <img src="https://github.com/user-attachments/assets/6b7b5abf-5aab-4bd0-810c-65f678a48b90"
        alt="深度学习习题详解 封面"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
   <img src="https://github.com/user-attachments/assets/33856aaa-bea2-487d-a900-cf5073cbb2c4"
        alt="深度学习习题详解 第28页"
-       width="300"
-       height="420" />
+       width="225"
+       height="320" />
 </p>
-
 
 ---
 
