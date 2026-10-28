@@ -203,24 +203,6 @@ Although I was ultimately not credited as an author of the published companion v
 I hope that this work, however modest it may be, can provide readers with useful approaches for reference, discussion, and further thought. If any of these derivations, explanations, or organizational choices help readers better understand the material—and encourage them to verify, question, derive, and develop their own understanding—then the value of this work extends beyond simply providing answers. I hope it can serve, in some small way, as a starting point for further exploration.
 </p>
 
-<p>
-For me personally, this has also been a continuous process of learning and deeper study. Along the way there have been gains and losses, but what may endure longest is the original passion one has for something, together with the time and effort one is willing to devote to that passion.
-</p>
-
-<p>
-The value of many things does not necessarily lie in recognition, titles, or external judgment. Sometimes it lies simply in whether the work itself is worth doing, whether one is willing to devote oneself to it, and whether it can offer even a small amount of genuine help to someone else.
-</p>
-
-<p>
-If this modest work can ultimately offer even a little inspiration to readers, learners, or researchers—if it helps someone understand one more equation, grasp one more concept, or discover one more question worth pursuing—then, for me, that is enough.
-</p>
-
-<p>
-May I continue to remain curious, remain passionate, and never forget why I began.<br><br>
-Through wind and storm, the road stretches far;<br>
-if asked what this heart remains bound to,<br>
-I follow but one conviction: to remain true to myself.
-</p>
 
 <p align="right">
 September 25, 2026 · Bingwu Year, 15th Day of the Eighth Lunar Month · Mid-Autumn Festival
